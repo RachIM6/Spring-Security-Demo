@@ -144,7 +144,6 @@ The application runs on `http://localhost:8080` by default.
 
 ### Public Endpoints
 
-- `GET /api/public` - Public endpoint accessible without authentication
 - `POST /register` - Register a new user
 - `POST /auth/login` - Authenticate and receive JWT token
 
