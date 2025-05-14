@@ -150,7 +150,7 @@ The application runs on `http://localhost:8080` by default.
 ### Protected Endpoints
 
 - `GET /api/user/info` - Get current user information (requires authentication)
-- `GET /admin/dashboard` - Admin dashboard (requires ADMIN role)
+- `GET api/admin/dashboard` - Admin dashboard (requires ADMIN role)
 
 ## Usage Examples
 
