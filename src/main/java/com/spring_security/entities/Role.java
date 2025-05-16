@@ -1,4 +1,4 @@
-package com.spring_security.model;
+package com.spring_security.entities;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

@@ -1,7 +1,7 @@
 package com.spring_security.service;
 
-import com.spring_security.model.Role;
-import com.spring_security.model.User;
+import com.spring_security.entities.Role;
+import com.spring_security.entities.User;
 import com.spring_security.repository.RoleRepository;
 import com.spring_security.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
